@@ -1,0 +1,9 @@
+{
+  "short_name": "A.I.mentary",
+  "name": "A.I.mentary - Diario Alimentare Intelligente",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
+}

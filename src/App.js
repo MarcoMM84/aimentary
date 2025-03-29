@@ -52,9 +52,7 @@ const App = () => {
           <p>Ora puoi accedere alle sezioni principali.</p>
           <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center', marginTop: '20px' }}>
             <div style={{ margin: '10px', textAlign: 'center' }}>
-  <img src="/icons/Calendario.png" alt="Calendario" style={{ width: 64, height: 64 }} />
-  <p>Calendario</p>
-</div>
+            <img src="/icons/pasto.png" alt="Pasto" style={{ width: 64, height: 64 }} />
             <div style={{ margin: '10px' }}>💩 Evacuazioni</div>
             <div style={{ margin: '10px' }}>🏃 Attività</div>
             <div style={{ margin: '10px' }}>📊 Report</div>

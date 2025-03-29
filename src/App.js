@@ -52,8 +52,8 @@ const App = () => {
           <p>Ora puoi accedere alle sezioni principali.</p>
           <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center', marginTop: '20px' }}>
             <div style={{ margin: '10px', textAlign: 'center' }}>
-              <img src="/icons/pasto.png" alt="Diario" style={{ width: 64, height: 64 }} />
-              <p>Diario</p>
+              <img src="/icons/pasto.png" alt="Pasto" style={{ width: 64, height: 64 }} />
+              <p>Pasto</p>
             </div>
             <div style={{ margin: '10px', textAlign: 'center' }}>
               <img src="/icons/evacuazione.png" alt="Evacuazioni" style={{ width: 64, height: 64 }} />

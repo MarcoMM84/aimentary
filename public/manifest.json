@@ -1,9 +1,20 @@
 {
   "short_name": "A.I.mentary",
-  "name": "A.I.mentary - Diario Alimentare Intelligente",
-  "icons": [],
+  "name": "A.I.mentary - Diario Alimentare e Salute",
+  "icons": [
+    {
+      "src": "icons/logo_aimentary.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/logo_aimentary.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#ffffff",
+  "theme_color": "#4CAF50",
   "background_color": "#ffffff"
 }

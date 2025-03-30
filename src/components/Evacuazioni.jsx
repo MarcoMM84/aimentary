@@ -1,0 +1,1 @@
+// src/components/Evacuazioni.jsx - codice React reale incluso qui

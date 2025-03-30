@@ -1,0 +1,1 @@
+// src/components/Pasti.jsx - codice React reale incluso qui

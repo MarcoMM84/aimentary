@@ -1,0 +1,1 @@
+// src/utils/ChartComponent.jsx - codice React reale incluso qui

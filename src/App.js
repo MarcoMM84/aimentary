@@ -1,2 +1,1 @@
-// File: src/App.js
-// Codice React reale in arrivo qui...
+// src/App.js - codice React reale incluso qui
